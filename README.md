@@ -1,4 +1,4 @@
-### Lightning in a Bottle 2018 TotemCode
+# Lightning in a Bottle 2018 TotemCode
 
 ## Settings Datasheet
 
@@ -28,3 +28,7 @@ In order to complile Lights.ino, you will need the [LinkedList](https://github.c
 ## Hardware Info
 
 This program was tested on an Arduino Nano with a WS2812B 120 LED lightstrip. I choose to wire four single pull, single throw switches to digital pins [2:5] to control the light strip mode. I wired three potentiometers whose outputs were in the range of 0-5V to analog pins [0:2] to control each mode's analog parameters. Digital pin 7 was connected to the light strip's data input. This wiring configuration can be changed easily by modifying the #define statements at the top of Lights.ino.
+
+## Power Info
+
+We found that this entire setup requries anywhere between 5-10W of power to run smoothly, depending on what setting you use the lights on. Thus, you should be able to power this system using most decent portable power banks available on Amazon.
