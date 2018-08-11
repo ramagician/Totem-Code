@@ -1,5 +1,7 @@
 # Lightning in a Bottle 2018 TotemCode
 
+A few months ago, I went to the Lightning in a Bottle music festival. With the help of a few friends of mine, we made a cool totem (for those have never been to a festival, a totem is a large sign or object used as a beacon to help keep friends together in a large crowd) that would light up at night. Our totem was, effectively, an LED light strip inside a clear plastic tube, wrapped in light defraction paper. This repository has all the code used to drive the LED lights.
+
 ## Settings Datasheet
 
 Selector (Dec) | Selector (Bin) | Function | Dial 0 | Dial 1 | Dial 2
