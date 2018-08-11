@@ -6,7 +6,7 @@ Selector (Dec) | Selector (Bin) | Function | Dial 0 | Dial 1 | Dial 2
 1 | 0001 | Sweep | Speed
 2 | 0010 | Shimmer | Speed
 3 | 0011 | Ball	Hue | Speed
-4 | 0100 | Time Rainbow	Speed
+4 | 0100 | Time Rainbow | Speed
 5 | 0101 | Hue Wave | Hue | Speed
 6 | 0110 | Color Stream | Hue | Brightness | Speed
 7 | 0111 | Color Solid | Hue | Brightness
